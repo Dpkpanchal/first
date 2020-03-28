@@ -1,4 +1,4 @@
 <?php
-
-echo "Hello world";
+$abc = 123;
+echo $abc;
 ?>
